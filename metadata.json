@@ -1,0 +1,6 @@
+{
+  "name": "Aura & Co. - Elegance in Every Detail",
+  "description": "Aura & Co. is a boutique e-commerce destination for handcrafted ladies jewelry and modern fashion pieces with effortless checkout and timeless design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
